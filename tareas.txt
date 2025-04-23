@@ -1,0 +1,3 @@
+[✓] Sacar al perro
+[✓] Aprender Python
+Skincare
